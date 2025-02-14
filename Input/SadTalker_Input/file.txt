@@ -1,0 +1,1 @@
+python inference.py --driven_audio F:\test\audio.wav --source_image F:\test\Hang.jpg --result_dir F:\test --still --preprocess full --enhancer gfpgan

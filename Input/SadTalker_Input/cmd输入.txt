@@ -1,0 +1,3 @@
+直接win+q，搜索命令行并打开，输入以下代码
+
+"F:\anaconda3\envs\sadtalker03\python.exe" "F:\AIAnchor\SadTalker\inference.py" --driven_audio "F:\AIAnchor\Output\GPT-SoVITS_Output\test_20240901_042107\output.wav" --source_image "F:\AIAnchor\Input\SadTalker_Input\Hang\Hang2.png" --result_dir "F:\AIAnchor\Output\SadTalker_Output" --still --preprocess full --enhancer gfpgan

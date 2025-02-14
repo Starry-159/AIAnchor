@@ -1,0 +1,6 @@
+F:\AIAnchor\GPT-SoVITS-beta0706\trained_models\Hang_vocal\参考音频_还体现出管理能力，对于活性染料染色缸差的控制。.wav
+还体现出管理能力，对于活性染料染色缸差的控制。
+
+
+
+"F:\AIAnchor\GPT-SoVITS-beta0706\runtime\python.exe" "F:\AIAnchor\GPT-SoVITS-beta0706\GPT_SoVITS\inference_cli.py" --gpt_model "F:\AIAnchor\GPT-SoVITS-beta0706\GPT_weights\Hang-e15.ckpt" --sovits_model "F:\AIAnchor\GPT-SoVITS-beta0706\SoVITS_weights\Hang_e8_s96.pth" --ref_audio "F:\AIAnchor\GPT-SoVITS-beta0706\trained_models\Hang_vocal\参考音频_还体现出管理能力，对于活性染料染色缸差的控制。.wav" --ref_text "F:\AIAnchor\GPT-SoVITS-beta0706\test\参考音频内容.txt" --ref_language "中文" --target_text "F:\AIAnchor\GPT-SoVITS-beta0706\test\测试用.txt" --target_language "中文" --output_path "F:\AIAnchor\GPT-SoVITS-beta0706\test"
